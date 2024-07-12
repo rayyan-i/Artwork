@@ -1,0 +1,71 @@
+.btn{
+    border-radius: 50px;
+    width: 120px;
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+.btn2{
+    border-radius: 50px;
+    width: 120px;
+    height: 80px;
+}
+.pic{
+    justify-content: center;
+    display:flex-right;
+    margin-top: 500;
+    width: 350px;
+    height: 200px;
+    margin-top: -200px;
+}
+
+.pic2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.frm{
+    width: 350px;
+    height: 200px;
+    display: flex ;
+    flex-direction: column;
+    
+    
+}
+.bag{
+    width: 350px;
+    height: 200px;
+    display: flex ;
+   flex-direction: row; 
+   margin: left 700px; ;
+   margin-top: ;
+}
+
+.bag2{
+    border-radius: 50px;
+    width: 120px;
+    height: 80px;
+    margin-left: +700px;
+    margin-top: -250px;
+}
+.photo{
+    width: 350px;
+    height: 200px;
+}
+.box{
+    margin-top: 150px;
+}
+.paglaparagraph{
+    width: 500px;
+}
+.abdul{
+    width: 400px; 
+    height: 200px;
+    margin-left: +700px;
+    margin-top: -250px;
+}
+.abc{
+    width:400px ;
+    height: 200px;
+}
